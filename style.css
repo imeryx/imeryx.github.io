@@ -1,0 +1,332 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; 
+}
+
+body {
+    background-color: #0f0f0f;
+    background-image: url('digital-art-with-city-landscape-architecture.jpg'); 
+    background-size: cover;                  
+    background-position: center;             
+    color: white;
+    overflow: hidden; 
+    cursor: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczMicgaGVpZ2h0PSczMicgdmlld0JveD0nMCAwIDMyIDMyJz48bGluZSB4MT0iMTYiIHkxPSIxNiIgeDI9IjIzLjIiIHkyPSIxNiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48bGluZSB4MT0iMTguNCIgeTE9IjE2IiB4Mj0iMTkuNjcyNzkyMjA2MTM1Nzg1IiB5Mj0iMTcuMjcyNzkyMjA2MTM1Nzg3IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48bGluZSB4MT0iMTguNCIgeTE9IjE2IiB4Mj0iMTkuNjcyNzkyMjA2MTM1Nzg1IiB5Mj0iMTQuNzI3MjA3NzkzODY0MjE1IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48bGluZSB4MT0iMjAuOCIgeTE9IjE2IiB4Mj0iMjIuMDcyNzkyMjA2MTM1Nzg3IiB5Mj0iMTcuMjcyNzkyMjA2MTM1Nzg3IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48bGluZSB4MT0iMjAuOCIgeTE9IjE2IiB4Mj0iMjIuMDcyNzkyMjA2MTM1Nzg3IiB5Mj0iMTQuNzI3MjA3NzkzODY0MjE1IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48bGluZSB4MT0iMTYiIHkxPSIxNiIgeDI9IjE5LjYiIHkyPSIyMi4yMzUzODI5MDcyNDc5NiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48bGluZSB4MT0iMTcuMiIgeTE9IjE4LjA3ODQ2MDk2OTA4MjY1MiIgeDI9IjE2LjczNDEyNTcxODgxNTQ2MyIgeTI9IjE5LjgxNzEyNzQ1NjQwMjk3NSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+PGxpbmUgeDE9IjE3LjIiIHkxPSIxOC4wNzg0NjA5NjkwODI2NTIiIHgyPSIxOC45Mzg2NjY0ODczMjAzMjIiIHkyPSIxOC41NDQzMzUyNTAyNjcxOSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+PGxpbmUgeDE9IjE4LjQiIHkxPSIyMC4xNTY5MjE5MzgxNjUzMDQiIHgyPSIxNy45MzQxMjU3MTg4MTU0NjIiIHkyPSIyMS44OTU1ODg0MjU0ODU2MjciIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiAvPjxsaW5lIHgxPSIxOC40IiB5MT0iMjAuMTU2OTIxOTM4MTY1MzA0IiB4Mj0iMjAuMTM4NjY2NDg3MzIwMzIiIHkyPSIyMC42MjI3OTYyMTkzNDk4NCIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+PGxpbmUgeDE9IjE2IiB5MT0iMTYiIHgyPSIxMi40MDAwMDAwMDAwMDAwMDIiIHkyPSIyMi4yMzUzODI5MDcyNDc5NiIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxLjUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48bGluZSB4MT0iMTQuOCIgeTE9IjE4LjA3ODQ2MDk2OTA4MjY1MiIgeDI9IjEzLjA2MTMzMzUxMjY3OTY3OCIgeTI9IjE4LjU0NDMzNTI1MDI2NzE5IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48bGluZSB4MT0iMTQuOCIgeTE9IjE4LjA3ODQ2MDk2OTA4MjY1MiIgeDI9IjE1LjI2NTg3NDI4MTE4NDUzOSIgeTI9IjE5LjgxNzEyNzQ1NjQwMjk3NSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+PGxpbmUgeDE9IjEzLjYwMDAwMDAwMDAwMDAwMSIgeTE9IjIwLjE1NjkyMTkzODE2NTMwNCIgeDI9IjExLjg2MTMzMzUxMjY3OTY3OCIgeTI9IjIwLjYyMjc5NjIxOTM0OTg0IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48bGluZSB4MT0iMTMuNjAwMDAwMDAwMDAwMDAxIiB5MT0iMjAuMTU2OTIxOTM4MTY1MzA0IiB4Mj0iMTQuMDY1ODc0MjgxMTg0NTQiIHkyPSIyMS44OTU1ODg0MjU0ODU2MjciIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiAvPjxsaW5lIHgxPSIxNiIgeTE9IjE2IiB4Mj0iOC44IiB5Mj0iMTYiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+PGxpbmUgeDE9IjEzLjYiIHkxPSIxNiIgeDI9IjEyLjMyNzIwNzc5Mzg2NDIxMyIgeTI9IjE0LjcyNzIwNzc5Mzg2NDIxNSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+PGxpbmUgeDE9IjEzLjYiIHkxPSIxNiIgeDI9IjEyLjMyNzIwNzc5Mzg2NDIxNSIgeTI9IjE3LjI3Mjc5MjIwNjEzNTc4NyIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+PGxpbmUgeDE9IjExLjIiIHkxPSIxNiIgeDI9IjkuOTI3MjA3NzkzODY0MjEzIiB5Mj0iMTQuNzI3MjA3NzkzODY0MjE1IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48bGluZSB4MT0iMTEuMiIgeTE9IjE2IiB4Mj0iOS45MjcyMDc3OTM4NjQyMTQiIHkyPSIxNy4yNzI3OTIyMDYxMzU3ODciIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiAvPjxsaW5lIHgxPSIxNiIgeTE9IjE2IiB4Mj0iMTIuMzk5OTk5OTk5OTk5OTk3IiB5Mj0iOS43NjQ2MTcwOTI3NTIwNDQiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMS41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+PGxpbmUgeDE9IjE0Ljc5OTk5OTk5OTk5OTk5OSIgeTE9IjEzLjkyMTUzOTAzMDkxNzM0OCIgeDI9IjE1LjI2NTg3NDI4MTE4NDUzNSIgeTI9IjEyLjE4Mjg3MjU0MzU5NzAyNSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+PGxpbmUgeDE9IjE0Ljc5OTk5OTk5OTk5OTk5OSIgeTE9IjEzLjkyMTUzOTAzMDkxNzM0OCIgeDI9IjEzLjA2MTMzMzUxMjY3OTY3NiIgeTI9IjEzLjQ1NTY2NDc0OTczMjgxMSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+PGxpbmUgeDE9IjEzLjU5OTk5OTk5OTk5OTk5OCIgeTE9IjExLjg0MzA3ODA2MTgzNDY5NiIgeDI9IjE0LjA2NTg3NDI4MTE4NDUzNCIgeTI9IjEwLjEwNDQxMTU3NDUxNDM3MyIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIxIiBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+PGxpbmUgeDE9IjEzLjU5OTk5OTk5OTk5OTk5OCIgeTE9IjExLjg0MzA3ODA2MTgzNDY5NiIgeDI9IjExLjg2MTMzMzUxMjY3OTY3NSIgeTI9IjExLjM3NzIwMzc4MDY1MDE2IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48bGluZSB4MT0iMTYiIHkxPSIxNiIgeDI9IjE5LjU5OTk5OTk5OTk5OTk5NCIgeTI9IjkuNzY0NjE3MDkyNzUyMDM4IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiAvPjxsaW5lIHgxPSIxNy4yIiB5MT0iMTMuOTIxNTM5MDMwOTE3MzQ2IiB4Mj0iMTguOTM4NjY2NDg3MzIwMzIyIiB5Mj0iMTMuNDU1NjY0NzQ5NzMyODA4IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48bGluZSB4MT0iMTcuMiIgeTE9IjEzLjkyMTUzOTAzMDkxNzM0NiIgeDI9IjE2LjczNDEyNTcxODgxNTQ2IiB5Mj0iMTIuMTgyODcyNTQzNTk3MDIzIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48bGluZSB4MT0iMTguNCIgeTE9IjExLjg0MzA3ODA2MTgzNDY5MiIgeDI9IjIwLjEzODY2NjQ4NzMyMDMyIiB5Mj0iMTEuMzc3MjAzNzgwNjUwMTU0IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz48bGluZSB4MT0iMTguNCIgeTE9IjExLjg0MzA3ODA2MTgzNDY5MiIgeDI9IjE3LjkzNDEyNTcxODgxNTQ2IiB5Mj0iMTAuMTA0NDExNTc0NTE0MzciIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiAvPjwvc3ZnPg==') 16 16, auto;
+    min-height: 100vh;
+}
+
+
+#enter-screen {
+    position: fixed;
+    top: 0; left: 0;
+    width: 100vw; height: 100vh;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+    cursor: pointer;
+    transition: opacity 0.5s ease; 
+}
+
+.blink-text {
+    font-size: 1.1rem; 
+    letter-spacing: 2px;
+    font-weight: 500; 
+    animation: blink 1.2s infinite; 
+}
+
+@keyframes blink {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0; }
+}
+
+.hidden { display: none !important; }
+
+#main-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgba(0, 0, 0, 0.4); 
+}
+
+.bio-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    animation: slideUpFade 1s cubic-bezier(0.23, 1, 0.32, 1) forwards;
+}
+
+
+.main-avatar {
+    width: 105px;
+    height: 105px;
+    border-radius: 50%; 
+    object-fit: cover;
+    border: 1px solid rgba(255, 255, 255, 0.6); 
+    box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+}
+
+
+.main-username {
+    font-size: 1.6rem; 
+    font-weight: 600; 
+    margin-top: 15px;
+    text-shadow: 0 2px 5px rgba(0,0,0,0.8);
+}
+
+
+
+
+#discord-profile-card {
+    display: flex;
+    align-items: center;
+    background-color: rgba(15, 15, 15, 0.6); 
+    padding: 12px 20px;
+    border-radius: 10px; 
+    border: 1px solid rgba(255, 255, 255, 0.08); 
+    min-width: 280px; 
+    gap: 15px; 
+}
+
+#discord-avatar {
+    width: 50px; 
+    height: 50px;
+    border-radius: 50%; 
+    object-fit: cover;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+#discord-info {
+    display: flex;
+    flex-direction: column;
+}
+
+#discord-name-row {
+    display: flex;
+    align-items: center;
+}
+
+#discord-username {
+    font-size: 1.05rem;
+    font-weight: 600;
+}
+
+#discord-presence {
+    font-size: 0.85rem;
+    color: #b9bbbe; 
+    margin-top: 3px;
+    font-weight: 400;
+}
+
+
+.social-links {
+    display: flex;
+    gap: 15px; 
+    margin-top: 25px;
+}
+
+.social-links a {
+    color: rgba(255, 255, 255, 0.7); 
+    font-size: 1.3rem; 
+    text-decoration: none; 
+    transition: all 0.2s ease; 
+}
+
+.social-links a:hover {
+    color: rgba(255, 255, 255, 1); 
+    transform: translateY(-2px); 
+}
+
+@keyframes slideUpFade {
+    0% {
+        opacity: 0;
+        transform: translateY(50px); 
+    }
+    100% {
+        opacity: 1;
+        transform: translateY(0); 
+    }
+}
+
+
+.discord-avatar-wrapper {
+    position: relative;
+    display: flex;
+}
+
+#discord-status-dot {
+    position: absolute;
+    bottom: -2px;
+    right: -2px;
+    width: 18px;  
+    height: 18px;
+    border-radius: 50%;
+  
+    border: none; 
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box; 
+}
+
+
+.status-online {
+    background-color: #23a559 !important;
+    box-shadow: none !important;
+    border: none !important;
+}
+
+.status-dnd {
+    background-color: #f23f43 !important;
+    box-shadow: none !important;
+    border: none !important;
+}
+.status-dnd::after {
+    content: '';
+    width: 8px;
+    height: 3px;
+    background-color: #151515; 
+    border-radius: 1px;
+}
+
+.status-idle {
+    background-color: transparent !important;
+    box-shadow: -4.5px -4.5px 0 0 #f0b232 inset !important;
+    border: none !important;
+}
+.status-idle::after { display: none; } 
+
+
+.status-offline {
+    background-color: transparent !important;
+   
+    border: 4.5px solid #80848e !important; 
+    box-shadow: none !important;
+}
+.status-offline::after { display: none; }
+
+#music-player {
+    position: fixed;
+    bottom: 40px; 
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 85%; 
+    max-width: 800px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    z-index: 100;
+    animation: slideUpFade 1s cubic-bezier(0.23, 1, 0.32, 1) forwards;
+    
+   
+    background: transparent;
+    border: none;
+    backdrop-filter: none;
+    box-shadow: none;
+    padding: 0;
+}
+
+#current-time, #total-time {
+    font-size: 0.95rem;
+    color: rgba(255, 255, 255, 0.9);
+    font-weight: 400;
+    min-width: 35px;
+    letter-spacing: 1px;
+}
+
+#total-time {
+    color: rgba(255, 255, 255, 0.5); 
+}
+
+#progress-container {
+    flex-grow: 1; 
+    height: 3px;  
+    background-color: rgba(255, 255, 255, 0.15); 
+    border-radius: 2px;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+
+#progress-bar {
+    height: 100%;
+    width: 0%;
+    background-color: #ffffff; 
+    border-radius: 2px;
+    transition: width 0.1s linear;
+}
+
+.music-controls {
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    margin-left: 10px;
+}
+
+.music-controls button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+#play-pause-btn {
+    color: white;
+    font-size: 1.4rem; 
+}
+
+#prev-btn, #next-btn {
+    color: rgba(255, 255, 255, 0.4); 
+    font-size: 1rem;
+}
+
+.music-controls button:hover {
+    color: white;
+    transform: scale(1.1);
+}
+
+#view-counter {
+    position: fixed;
+    top: 25px;
+    right: 30px;
+    color: rgba(255, 255, 255, 0.4); 
+    font-size: 0.9rem;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    z-index: 100;
+    background-color: rgba(15, 15, 15, 0.5); 
+    padding: 6px 14px;
+    border-radius: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.05);
+   
+    animation: slideUpFade 1s cubic-bezier(0.23, 1, 0.32, 1) forwards;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+#view-counter:hover {
+    color: rgba(255, 255, 255, 0.9); 
+    transform: translateY(-2px);
+}
+
+#snow-canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: 0; 
+    pointer-events: none; 
+    opacity: 0.8; 
+}
+
+.bio-container {
+    position: relative;
+    z-index: 10;
+}

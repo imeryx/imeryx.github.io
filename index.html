@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@Eryx</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAzMiAzMic+CiAgPGRlZnM+CiAgICA8bWFzayBpZD0nbSc+CiAgICAgIDxyZWN0IHdpZHRoPScxMDAlJyBoZWlnaHQ9JzEwMCUnIGZpbGw9J3doaXRlJy8+CiAgICAgIDxjaXJjbGUgY3g9JzIzJyBjeT0nMTYnIHI9JzExLjQ3OTk5OTk5OTk5OTk5OScgZmlsbD0nYmxhY2snLz4KICAgIDwvbWFzaz4KICA8L2RlZnM+CiAgPGNpcmNsZSBjeD0nMTYnIGN5PScxNicgcj0nMTQnIGZpbGw9J3doaXRlJyBtYXNrPSd1cmwoI20pJyB0cmFuc2Zvcm09J3JvdGF0ZSgtMjYgMTYgMTYpJy8+Cjwvc3ZnPg==">
+</head>
+<body>
+    <canvas id="snow-canvas"></canvas>
+    <div id="enter-screen">
+        <p class="blink-text"> Click to enter </p>
+    </div>
+
+    <audio id="bg-music" loop>
+        <source src="bgmusic.mp3" type="audio/mpeg">
+    </audio>
+
+    <div id="main-content" class="hidden">
+        
+        <div class="bio-container">
+            
+            <img src="Yuta Okkotsu.jpeg" alt="Avatar" class="main-avatar">
+            <h1 class="main-username">Eryx</h1>
+            
+           
+            
+            <div id="discord-profile-card">
+                <div class="discord-avatar-wrapper">
+                    <img id="discord-avatar" src="" alt="Discord Avatar">
+                    <div id="discord-status-dot"></div>
+                </div>
+                <div id="discord-info">
+                    <div id="discord-name-row">
+                        <span id="discord-username">Đang tải...</span>
+                    </div>
+                    <div id="discord-status-row">
+                        <span id="discord-presence">Loading status...</span>
+                    </div>
+                </div>
+            </div>
+
+            
+            <div class="social-links">
+                <a href="https://open.spotify.com/user/31vc5ovexxutp3vgsg6xngkfnw7u" target="_blank"><i class="fa-brands fa-spotify"></i></a>
+                <a href="https://www.tiktok.com/@rouconbee?_r=1&_t=ZS-95CegHEDmdA" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
+                <a href="https://discord.gg/Nk3WPCsP" target="_blank"><i class="fa-brands fa-discord"></i></a>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+
+    <div id="music-player" class="hidden">
+        <span id="current-time">0:00</span>
+        <div id="progress-container">
+            <div id="progress-bar"></div>
+        </div>
+        <span id="total-time">0:00</span>
+        
+        <div class="music-controls">
+            <button id="prev-btn"><i class="fa-solid fa-backward-step"></i></button>
+            <button id="play-pause-btn"><i class="fa-solid fa-pause"></i></button>
+            <button id="next-btn"><i class="fa-solid fa-forward-step"></i></button>
+        </div>
+    </div>
+    <div id="view-counter" class="hidden">
+        <i class="fa-regular fa-eye"></i> <span id="view-count">...</span>
+    </div>
+</body>
